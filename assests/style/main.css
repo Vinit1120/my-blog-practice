@@ -26,3 +26,13 @@ body {
 header {
   margin-bottom: 20px;
 }
+
+.footer-widget {
+  background-color: #333;
+  padding: 20px;
+}
+
+.footer-widget h3 {
+  font-size: 18px;
+  color: #fff;
+}
