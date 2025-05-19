@@ -1,2 +1,2 @@
 # my-blog-practice
-My practice blog repo
+[Installation Guide](https://github.com/Vinit1120/my-blog-practice/wiki/Installation)
