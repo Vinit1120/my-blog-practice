@@ -1,4 +1,15 @@
-/* Subscribe Button Styles */
+.subscribe-btn {
+  background-color: #007bff;
+  padding: 10px 20px;
+  color: white;
+}
+
+.subscribe-btn:hover {
+  background-color: #0056b3;
+}
+body {
+  background-color: #121212;
+  color: #f1f1f1;
 .subscribe-button {
     background-color: #007BFF;
     color: white;
